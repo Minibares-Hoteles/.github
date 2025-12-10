@@ -1,8 +1,8 @@
 ---
 name: Feature Request
 about: Sugiere una nueva funcionalidad o mejora
-title: "[FEATURE] "
-labels: ["enhancement"]
+title: "💠 Feature"
+labels: ["feature"]
 ---
 
 ## ✨ Descripción de la mejora
