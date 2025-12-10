@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Reporta un error encontrado en el sistema
-title: "[BUG] "
+title: "🐞 Bug"
 labels: ["bug"]
 ---
 
@@ -34,8 +34,8 @@ Explica claramente qué está fallando.
 ## 🖥️ Entorno (si aplica)
 
 - Versión del proyecto:
-- Sistema operativo:
-- Navegador / entorno de ejecución:
+- Aplicativo (web o movil):
+- Sistema Operativo (solo en caso movil):
 - Otros detalles relevantes:
 
 ---
